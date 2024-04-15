@@ -1,2 +1,1 @@
-# First-Challenge
-First week challenge assignment
+# Code Refactor Starter Code
